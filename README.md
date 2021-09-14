@@ -1,4 +1,4 @@
-### Hi there, I am  Aryan👋
+### Hi there, I am  Ayush👋
 
 
 - 🔭 I’m currently working on Javascript and NodeJS

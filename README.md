@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there, I am  Aryan👋
 
-<!--
-**ayushdragneel/AyushDragneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Javascript and NodeJS
+- 🌱 I’m currently learning Backend Development
+- 👯 I’m competitive programmer
+- 💬 Ask me about Data structures and algorithms
+- 📫 How to reach me: singhayush049@gmail.com
+- ⚡ Fun fact:classroom of Elites is my favourite TV show of all time !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan6290&layout=compact&hide=makefile,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=Aryan6290)
+
+
+
+
+
+
+<i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/ar-yawn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/paracetamol650" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
